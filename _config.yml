@@ -18,9 +18,15 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              savokiss
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             jaynaruto@qq.com
 
 # Custom vars
 version:             1.0.0
+
+# Comments
+comments:
+    provider:duoshuo
+    duoshuo:
+           shortname:savoki
