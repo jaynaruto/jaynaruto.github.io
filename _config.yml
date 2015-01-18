@@ -26,7 +26,8 @@ author:
 version:             1.0.0
 
 # Comments
-comments:
-    provider:duoshuo
-    duoshuo:
-           shortname:savoki
+comments :
+    provider : duoshuo
+    duoshuo :
+          short_name : savoki
+
