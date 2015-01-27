@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message text-center">
-  flying get√,总是要拼了命继续努力
+  flying get√ 总是要拼了命继续努力
 </p>
 
 我是savokiss，菜鸟php程序猿，技术慢热型，下面能找到我的一些痕迹：
