@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: About
 ---
 
@@ -12,16 +12,4 @@ title: About
 <p class="message">
   下面是个伪留言板
 </p>
-<div class="ds-thread" data-thread-key="99999" data-title="guestbook" data-url="jaynaruto.github.io{{page.url}}"></div>
 
-<script type="text/javascript">
-  var duoshuoQuery = {short_name:"savoki"};
-    (function() {
-      var ds = document.createElement('script');
-      ds.type = 'text/javascript';ds.async = true;
-      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.unstable.js';
-      ds.charset = 'UTF-8';
-      (document.getElementsByTagName('head')[0] 
-       || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
-</script>
