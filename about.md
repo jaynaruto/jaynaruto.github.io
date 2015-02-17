@@ -12,7 +12,7 @@ title: About
 - [github](http://github.com/jaynaruto)
 - [coding](https://coding.net/u/savokiss)
 - [tech blog](http://cnblogs.com/savokiss)
-- [知乎](http://www.zhihu.com/people/bear-jason)
+- [知乎](http://www.zhihu.com/people/savokiss)
 
 下面是一些stuff:
 
