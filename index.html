@@ -3,36 +3,24 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<p class="message text-center">
+  flying get√ 总是要拼了命继续努力
+</p>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+我是savokiss，菜鸟程序猿，技术慢热型，下面能找到我的一些痕迹：
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+- [github](http://github.com/jaynaruto)
+- [coding](https://coding.net/u/savokiss)
+- [segmentfault](http://segmentfault.com/u/savokiss)
+- [tech blog](http://cnblogs.com/savokiss)
+- [知乎](http://www.zhihu.com/people/savokiss)
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<p class="text-center">听歌吗</p>
+<p class="text-center">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=450 src="http://music.163.com/outchain/player?type=0&id=47516867&auto=1&height=430"></iframe>
+</p>
+
+<p class="message text-center">
+  下面是沙发可以坐
+</p>
 
