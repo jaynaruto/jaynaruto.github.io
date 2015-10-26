@@ -9,7 +9,7 @@ title: About
 
 我是savokiss，菜鸟程序猿，技术慢热型，下面能找到我的一些痕迹：
 
-- [github](http://github.com/jaynaruto)
+- [github](http://github.com/savokiss)
 - [coding](https://coding.net/u/savokiss)
 - [segmentfault](http://segmentfault.com/u/savokiss)
 - [tech blog](http://cnblogs.com/savokiss)
