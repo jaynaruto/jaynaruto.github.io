@@ -9,6 +9,8 @@ title: About
 
 我是savokiss，菜鸟程序猿，技术慢热型，下面能找到我的一些痕迹：
 
+<script src='http://w.segmentfault.com/card/1030000002524751.js?w=280&3rd=1&bg=0&bd=DDDDDD&cl=333333&btn=009a61&noBtn=0'></script>
+
 - [github](http://github.com/savokiss)
 - [coding](https://coding.net/u/savokiss)
 - [segmentfault](http://segmentfault.com/u/savokiss)
