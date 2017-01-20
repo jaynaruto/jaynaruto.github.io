@@ -9,7 +9,7 @@ title: About
 
 我是savokiss，菜鸟程序猿，技术慢热型，下面能找到我的一些痕迹：
 
-<div id="sf-usercard-1030000002524751">xxx</div>
+<div class="sf-usercard" id="sf-usercard-1030000002524751">xxx</div>
 
 - [github](http://github.com/savokiss)
 - [coding](https://coding.net/u/savokiss)
